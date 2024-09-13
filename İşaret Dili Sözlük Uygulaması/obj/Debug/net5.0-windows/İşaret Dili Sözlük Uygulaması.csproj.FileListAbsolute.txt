@@ -1,0 +1,24 @@
+C:\Users\User\source\repos\İşaret Dili Sözlük Uygulaması\İşaret Dili Sözlük Uygulaması\bin\Debug\net5.0-windows\İşaret Dili Sözlük Uygulaması.exe
+C:\Users\User\source\repos\İşaret Dili Sözlük Uygulaması\İşaret Dili Sözlük Uygulaması\bin\Debug\net5.0-windows\İşaret Dili Sözlük Uygulaması.deps.json
+C:\Users\User\source\repos\İşaret Dili Sözlük Uygulaması\İşaret Dili Sözlük Uygulaması\bin\Debug\net5.0-windows\İşaret Dili Sözlük Uygulaması.runtimeconfig.json
+C:\Users\User\source\repos\İşaret Dili Sözlük Uygulaması\İşaret Dili Sözlük Uygulaması\bin\Debug\net5.0-windows\İşaret Dili Sözlük Uygulaması.runtimeconfig.dev.json
+C:\Users\User\source\repos\İşaret Dili Sözlük Uygulaması\İşaret Dili Sözlük Uygulaması\bin\Debug\net5.0-windows\İşaret Dili Sözlük Uygulaması.dll
+C:\Users\User\source\repos\İşaret Dili Sözlük Uygulaması\İşaret Dili Sözlük Uygulaması\bin\Debug\net5.0-windows\İşaret Dili Sözlük Uygulaması.pdb
+C:\Users\User\source\repos\İşaret Dili Sözlük Uygulaması\İşaret Dili Sözlük Uygulaması\obj\Debug\net5.0-windows\İşaret_Dili_Sözlük_Uygulaması.Form1.resources
+C:\Users\User\source\repos\İşaret Dili Sözlük Uygulaması\İşaret Dili Sözlük Uygulaması\obj\Debug\net5.0-windows\İşaret Dili Sözlük Uygulaması.csproj.GenerateResource.cache
+C:\Users\User\source\repos\İşaret Dili Sözlük Uygulaması\İşaret Dili Sözlük Uygulaması\obj\Debug\net5.0-windows\İşaret Dili Sözlük Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\İşaret Dili Sözlük Uygulaması\İşaret Dili Sözlük Uygulaması\obj\Debug\net5.0-windows\İşaret Dili Sözlük Uygulaması.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\İşaret Dili Sözlük Uygulaması\İşaret Dili Sözlük Uygulaması\obj\Debug\net5.0-windows\İşaret Dili Sözlük Uygulaması.AssemblyInfo.cs
+C:\Users\User\source\repos\İşaret Dili Sözlük Uygulaması\İşaret Dili Sözlük Uygulaması\obj\Debug\net5.0-windows\İşaret Dili Sözlük Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\İşaret Dili Sözlük Uygulaması\İşaret Dili Sözlük Uygulaması\obj\Debug\net5.0-windows\İşaret Dili Sözlük Uygulaması.dll
+C:\Users\User\source\repos\İşaret Dili Sözlük Uygulaması\İşaret Dili Sözlük Uygulaması\obj\Debug\net5.0-windows\refint\İşaret Dili Sözlük Uygulaması.dll
+C:\Users\User\source\repos\İşaret Dili Sözlük Uygulaması\İşaret Dili Sözlük Uygulaması\obj\Debug\net5.0-windows\İşaret Dili Sözlük Uygulaması.pdb
+C:\Users\User\source\repos\İşaret Dili Sözlük Uygulaması\İşaret Dili Sözlük Uygulaması\obj\Debug\net5.0-windows\İşaret Dili Sözlük Uygulaması.genruntimeconfig.cache
+C:\Users\User\source\repos\İşaret Dili Sözlük Uygulaması\İşaret Dili Sözlük Uygulaması\obj\Debug\net5.0-windows\ref\İşaret Dili Sözlük Uygulaması.dll
+C:\Users\User\source\repos\İşaret Dili Sözlük Uygulaması\İşaret Dili Sözlük Uygulaması\bin\Debug\net5.0-windows\Interop.WMPLib.dll
+C:\Users\User\source\repos\İşaret Dili Sözlük Uygulaması\İşaret Dili Sözlük Uygulaması\bin\Debug\net5.0-windows\AxInterop.WMPLib.dll
+C:\Users\User\source\repos\İşaret Dili Sözlük Uygulaması\İşaret Dili Sözlük Uygulaması\obj\Debug\net5.0-windows\Interop.WMPLib.dll
+C:\Users\User\source\repos\İşaret Dili Sözlük Uygulaması\İşaret Dili Sözlük Uygulaması\obj\Debug\net5.0-windows\AxInterop.WMPLib.dll
+C:\Users\User\source\repos\İşaret Dili Sözlük Uygulaması\İşaret Dili Sözlük Uygulaması\obj\Debug\net5.0-windows\İşaret Dili Sözlük Uygulaması.csproj.ResolveComReference.cache
+C:\Users\User\source\repos\İşaret Dili Sözlük Uygulaması\İşaret Dili Sözlük Uygulaması\obj\Debug\net5.0-windows\İşaret_Dili_Sözlük_Uygulaması.Properties.Resources.resources
+C:\Users\User\source\repos\İşaret Dili Sözlük Uygulaması\İşaret Dili Sözlük Uygulaması\obj\Debug\net5.0-windows\Interop.MediaPlayer.dll

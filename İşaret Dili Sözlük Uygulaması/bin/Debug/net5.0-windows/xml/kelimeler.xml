@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<words>
+  <word>
+    <name>Word 1</name>
+    <description>Word description</description>
+    <example>
+      <sentence>Example sentence</sentence>
+      <transcript>Example transcript</transcript>
+      <video>example-video1.mp4</video>
+    </example>
+    <example>
+      <sentence>Another Example sentence</sentence>
+      <transcript>Another Example transcript</transcript>
+      <video>example-video2.mp4</video>
+    </example>
+    <video>video1.mp4</video>
+  </word>
+  <word>
+    <name>Word 2</name>
+    <description>Word description</description>
+    <example>
+      <sentence>Example sentence</sentence>
+      <transcript>Example transcript</transcript>
+      <video>example-video3.mp4</video>
+    </example>
+    <video>video2.mp4</video>
+  </word>
+  <word>
+    <name>Word 3</name>
+    <example>
+      <sentence>Example sentence</sentence>
+      <transcript>Example transcript</transcript>
+      <video>example-video4.mp4</video>
+    </example>
+    <video>video3.mp4</video>
+  </word>
+  <word>
+    <name>Word 4</name>
+    <description>word4 description</description>
+    <video>video1.mp4</video>
+    <example>
+      <sentence>example sentence</sentence>
+      <transcript>example transcript</transcript>
+      <video>example-video1.mp4</video>
+    </example>
+  </word>
+</words>

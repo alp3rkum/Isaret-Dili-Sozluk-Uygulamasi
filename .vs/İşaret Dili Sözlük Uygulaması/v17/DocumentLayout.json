@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DA720E-AD5C-40F6-92BD-22AB87B705B0}|\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131\\\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131.csproj|C:\\Users\\User\\source\\repos\\\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131\\\u0130\u015Faret dili s\u00F6zl\u00FCk uygulamas\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5DA720E-AD5C-40F6-92BD-22AB87B705B0}|\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131\\\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131.csproj|solutionrelative:\u0130\u015Faret dili s\u00F6zl\u00FCk uygulamas\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DA720E-AD5C-40F6-92BD-22AB87B705B0}|\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131\\\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131.csproj|c:\\users\\user\\source\\repos\\\u0130\u015Faret dili s\u00F6zl\u00FCk uygulamas\u0131\\\u0130\u015Faret dili s\u00F6zl\u00FCk uygulamas\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DA720E-AD5C-40F6-92BD-22AB87B705B0}|\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131\\\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131.csproj|solutionrelative:\u0130\u015Faret dili s\u00F6zl\u00FCk uygulamas\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DA720E-AD5C-40F6-92BD-22AB87B705B0}|\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131\\\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131.csproj|c:\\users\\user\\source\\repos\\\u0130\u015Faret dili s\u00F6zl\u00FCk uygulamas\u0131\\\u0130\u015Faret dili s\u00F6zl\u00FCk uygulamas\u0131\\xmlreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DA720E-AD5C-40F6-92BD-22AB87B705B0}|\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131\\\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131.csproj|solutionrelative:\u0130\u015Faret dili s\u00F6zl\u00FCk uygulamas\u0131\\xmlreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 269,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XMLReader.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131\\\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131\\XMLReader.cs",
+              "RelativeDocumentMoniker": "\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131\\XMLReader.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131\\\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131\\XMLReader.cs",
+              "RelativeToolTip": "\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131\\XMLReader.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAEwDAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:45:56.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131\\\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131\\Form1.cs",
+              "RelativeDocumentMoniker": "\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131\\\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131\\Form1.cs",
+              "RelativeToolTip": "\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131\\Form1.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAwwKEBAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:42:13.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131\\\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131\\Form1.cs",
+              "RelativeDocumentMoniker": "\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131\\\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "\u0130\u015Faret Dili S\u00F6zl\u00FCk Uygulamas\u0131\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:34:09.502Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
